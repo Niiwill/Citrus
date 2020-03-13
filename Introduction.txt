@@ -1,0 +1,13 @@
+Dear,
+
+SQL file for database import is in the root folder.
+
+Htaccess file is presented for redirecting to index because of the router of MVC pattern.
+
+Login information: 
+- email: admin@admin.com
+- password: admin
+
+For more information please contact me on vidovic94@hotmail.com
+
+All the best!
